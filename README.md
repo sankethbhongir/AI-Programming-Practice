@@ -1,2 +1,2 @@
-# AI-Programming-Practice
+# AI-Programming
 Building up AI skills
